@@ -1,0 +1,13 @@
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\bin\Debug\netcoreapp3.1\AutomatizandoContratos.exe
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\bin\Debug\netcoreapp3.1\AutomatizandoContratos.deps.json
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\bin\Debug\netcoreapp3.1\AutomatizandoContratos.runtimeconfig.json
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\bin\Debug\netcoreapp3.1\AutomatizandoContratos.runtimeconfig.dev.json
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\bin\Debug\netcoreapp3.1\AutomatizandoContratos.dll
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\bin\Debug\netcoreapp3.1\AutomatizandoContratos.pdb
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.AssemblyInfo.cs
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.dll
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.pdb
+C:\Users\natha\Desktop\Curso\ws-vs2019\AutomatizandoContratos\AutomatizandoContratos\obj\Debug\netcoreapp3.1\AutomatizandoContratos.genruntimeconfig.cache

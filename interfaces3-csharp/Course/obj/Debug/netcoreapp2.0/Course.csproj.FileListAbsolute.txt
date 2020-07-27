@@ -1,0 +1,12 @@
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\bin\Debug\netcoreapp2.0\Course.deps.json
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\bin\Debug\netcoreapp2.0\Course.runtimeconfig.json
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\bin\Debug\netcoreapp2.0\Course.runtimeconfig.dev.json
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\bin\Debug\netcoreapp2.0\Course.dll
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\bin\Debug\netcoreapp2.0\Course.pdb
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.AssemblyInfo.cs
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.dll
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.pdb
+C:\Users\natha\Desktop\Curso\ws-vs2019\interfaces3-csharp\Course\obj\Debug\netcoreapp2.0\Course.genruntimeconfig.cache
